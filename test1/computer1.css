@@ -217,9 +217,8 @@
     background-color: #fec601;
     border: 1px #fec601 solid;
 }
-/*@media (max-width:1000px) {
+@media (max-width:1000px) {
 html{
-	width: 1000px;
+	width: 980px;
  }
 }
-*/
