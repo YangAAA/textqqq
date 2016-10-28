@@ -63,16 +63,11 @@
     background-color: white;
     height: 45px;
     width: 130px;
+    margin-left: 9px;
     margin-bottom: 0;
     font-size: 18px;
 }
-#face{
-    /*margin-right: 24px;*/
-    margin-left: 5px;
-}
-#online{
-     margin-left: 9px;
-}
+
 #buy {
     height: 66px;
     width: 300px;
@@ -224,6 +219,6 @@
 }
 @media (max-width:1000px) {
 html{
-	width: 1000px;
+	width: 980px;
  }
 }
